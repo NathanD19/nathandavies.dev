@@ -1,0 +1,9 @@
+/* Custom Tooltip Theme */
+.tippy-tooltip.hyper-theme {
+    background-color: rgba(150, 150, 150, 0.2);
+    color: white;
+}
+
+.tippy-tooltip.hyper-theme[x-placement^='top'] .tippy-arrow {
+    border-top-color: rgba(150, 150, 150, 0.2);
+  }

@@ -1,2 +1,5 @@
 # nathandavies.dev
-Porfolio Site to show off me :) Nathan Davies
+Portfolio Site to show off me, Nathan Davies.
+
+Credit to https://html5up.net/ for the web template
+

@@ -1,0 +1,6 @@
+<svg width="120.89504089355468px" height="123.69992370605469px" xmlns="http://www.w3.org/2000/svg" viewBox="189.55247955322267 13.150038146972655 120.89504089355468 123.69992370605469" style="background: rgb(255, 255, 255);" preserveAspectRatio="xMidYMid"><defs><linearGradient id="editing-outline-gradient" x1="-0.41354545764260087" x2="1.4135454576426008" y1="0.09326335692419985" y2="0.9067366430758002"><stop offset="0" stop-color="#a408ee"></stop><stop offset="1" stop-color="#3d84b6"></stop></linearGradient><filter id="editing-outline" x="-100%" y="-100%" width="300%" height="300%"><feMorphology in="SourceGraphic" operator="dilate" radius="1" result="outline"></feMorphology><feComposite operator="out" in="outline" in2="SourceAlpha"></feComposite></filter></defs><g filter="url(#editing-outline)"><g transform="translate(212.91000080108643, 104.70125007629395)"><path d="M19.33-5.12L1.54-22.91L1.54-22.98L19.33-40.77L21.82-38.34L6.40-22.91L21.82-7.55L19.33-5.12ZM24.90 7.30L45.63-52.29L49.28-52.29L28.80 7.30L24.90 7.30ZM52.35-7.55L67.78-22.91L52.35-38.34L54.85-40.77L72.64-22.98L72.64-22.91L54.85-5.12L52.35-7.55Z" fill="url(#editing-outline-gradient)"></path></g></g><style>text {
+  font-size: 64px;
+  font-family: Arial Black;
+  dominant-baseline: central;
+  text-anchor: middle;
+}</style></svg>

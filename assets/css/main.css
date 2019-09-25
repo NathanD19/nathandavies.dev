@@ -94,7 +94,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #312450;
+		background: black;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -195,10 +195,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #508e9e, #264687);
-				background-image: -webkit-linear-gradient(to right, #508e9e, #264687);
-				background-image: -ms-linear-gradient(to right, #508e9e, #264687);
-				background-image: linear-gradient(to right, #508e9e, #264687);
+				background-image: -moz-linear-gradient(to right, #508e9e, black);
+				background-image: -webkit-linear-gradient(to right, #508e9e, black);
+				background-image: -ms-linear-gradient(to right, #508e9e, black);
+				background-image: linear-gradient(to right, #508e9e, black);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -2442,7 +2442,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #264687;
+			color: #264686;
 			content: '\f00c';
 		}
 
@@ -2534,28 +2534,45 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #508e9e;
+					color: black;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #064c68;
+					color: #191e20;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color:#372f79;
+					color: #161a1e;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #161a1e;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #264687;
+					color: #3b454d;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #264687;
+					color: #3b454d;
 				}
+
+				.wrapper.style4 .icon.major:before {
+					color:#000000;
+				}
+
+				.wrapper.style4-alt .icon.major:before {
+					color:#000000;
+				}
+
+				.wrapper.style5 .icon.major:before {
+					color:#191f24;
+				}
+
+				.wrapper.style5-alt .icon.major:before {
+					color:#191f24;
+				}
+
 
 /* Image */
 
@@ -3234,31 +3251,47 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: black;
 		}
 
 		.wrapper.style1 {
-			background-color: #508e9e;
+			background-color: black;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #064c68;
+			background-color: #191e20;
 		}
 
 		.wrapper.style2 {
-			background-color:#372f79;
+			background-color:#161a1e;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #161a1e;
 		}
 
 		.wrapper.style3 {
-			background-color: #264687;
+			background-color: #3b454d;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #264687;
+			background-color: #3b454d;
+		}
+
+		.wrapper.style4 {
+			background-color:#000000;
+		}
+
+		.wrapper.style4-alt {
+			background-color: #000000;
+		}
+		
+		.wrapper.style5 {
+			background-color:#191f24;
+		}
+
+		.wrapper.style5-alt {
+			background-color: #191f24;
 		}
 
 		.wrapper.fullscreen {
@@ -3368,7 +3401,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #508e9e;
+		background-color: black;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3522,7 +3555,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: black;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3759,14 +3792,14 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: black;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #508e9e, #264687);
-				background-image: -webkit-linear-gradient(to right, #508e9e, #264687);
-				background-image: -ms-linear-gradient(to right, #508e9e, #264687);
-				background-image: linear-gradient(to right, #508e9e, #264687);
+				background-image: -moz-linear-gradient(to right, #508e9e, black);
+				background-image: -webkit-linear-gradient(to right, #508e9e, black);
+				background-image: -ms-linear-gradient(to right, #508e9e, black);
+				background-image: linear-gradient(to right, #508e9e, black);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;

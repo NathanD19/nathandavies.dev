@@ -1,3 +1,5 @@
+Sitemap: http://nathandavies.dev/sitemap.xml
+
 User-agent: *
 Allow: /
 
@@ -7,4 +9,4 @@ Disallow: /elements.html
 User-agent: *
 Disallow: /generic.html
 
-Sitemap: http://nathandavies.dev/sitemap.xml
+

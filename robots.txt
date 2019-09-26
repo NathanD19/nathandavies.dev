@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://nathandavies.dev/sitemap.xml
+Sitemap: https://nathandavies.dev/sitemap.xml

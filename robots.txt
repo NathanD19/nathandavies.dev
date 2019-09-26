@@ -1,2 +1,4 @@
-Sitemap: http://nathandavies.dev/sitemap.xml
+User-agent: *
+Allow: /
 
+Sitemap: http://nathandavies.dev/sitemap.xml

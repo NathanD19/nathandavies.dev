@@ -1,11 +1,2 @@
-User-agent: *
-Allow: /
-
-#User-agent: *
-#Disallow: /elements.html
-
-#User-agent: *
-#Disallow: /generic.html
-
 Sitemap: http://nathandavies.dev/sitemap.xml
 
